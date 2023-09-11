@@ -6,3 +6,10 @@
 
 ![asdf](artifacts/CostvsTip.png)
 ![asdf](artifacts/CostvsTip_fit.png)
+
+![asdf](artifacts/AvgRefundvsDelivery.png)
+![asdf](artifacts/CostvsDiscount_fit.png)
+![asdf](artifacts/CostvsDiscount.png)
+![asdf](artifacts/highestordercost.png)
+![asdf](artifacts/highestordercount.png)
+![asdf](artifacts/OrderCountHist.png)
