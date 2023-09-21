@@ -1,4 +1,5 @@
-# Delivery
+# Delivering the Data
+by Nathan Wong
 
 The goal of this project was just an explorative data analysis of a DoorDash dataset. I specifically focused on several findings that could be potentially interesting to the delivery company itself. This includes potential insights on UX design and customer spending trends.
 
