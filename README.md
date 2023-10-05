@@ -20,7 +20,7 @@ Under $200 there are widely varying tip amounts, but a good amount of the tips l
 Many restaurants on DoorDash do offer discount options of "X% off, up to $5 or $6", and it seems that many customers take advantage of this. Note that since it is "up to $5 or $6", many orders not on the trend lines could also be taking advantage of the offered deals. Another common discount amount, as well as being the upper limit, is the entire order cost.
 
 #### Average Refund vs Delivery Time:
-Solarized dark             |  Solarized Ocean
+Before             |  After
 :-------------------------:|:-------------------------:
 ![Average Refund vs Delivery Time](artifacts/AvgRefundvsDelivery.png) |  ![Average Refund vs Delivery Time (Fixed!)](artifacts/AvgRefundvsDeliveryFixed.png)
 
